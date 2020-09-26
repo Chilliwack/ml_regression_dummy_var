@@ -4,4 +4,4 @@
 
 This project was done as part of [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) program.
 
-Please see the [notebook](https://github.com/Chilliwack/ml_regression_dummy_var) for further details: https://github.com/Chilliwack/ml_regression_dummy_var.ipynb
+Please see the [notebook](https://github.com/Chilliwack/ml_regression_dummy_var/blob/master/ml_regression_dummy_var.ipynb) for further details: https://github.com/Chilliwack/ml_regression_dummy_var/blob/master/ml_regression_dummy_var.ipynb
